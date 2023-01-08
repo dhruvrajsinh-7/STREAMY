@@ -34,9 +34,9 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = '';
-export const demoChannelUrl = '/channel/';
-export const demoVideoUrl = '/video/1';
+export const demoThumbnailUrl = 'https://yt3.googleusercontent.com/ytc/AMLnZu_kN-1R…mJxpUbQGTQKHcqTBs-UDsQ=s176-c-k-c0x00ffffff-no-rj';
+export const demoChannelUrl = '/channel/UCX6OQ3DkcsbYNE6H8uQQuVA ';
+export const demoVideoUrl = '/video/f0c7pSCoZqE';
 export const demoChannelTitle = 'Mrbeast';
-export const demoVideoTitle = 'Hello world';
-export const demoProfilePicture = ''
+export const demoVideoTitle = 'I Put 1,000,000,000 Christmas Lights On A House (World Record)';
+export const demoProfilePicture = 'https://yt3.googleusercontent.com/ytc/AMLnZu_kN-1Rq3sjNIqFg2N5mJxpUbQGTQKHcqTBs-UDsQ=s176-c-k-c0x00ffffff-no-rj'
