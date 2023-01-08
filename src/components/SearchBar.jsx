@@ -31,7 +31,6 @@ const Searchbar = () => {
       placeholder='Search what you want to watch'
       value={searchTerm}
       onChange={(e) => setSearchTerm(e.target.value)}
-
     />  
      <IconButton type='submit' sx={{ p: '10px', color: 'grey' }} aria-label='search'>
         <SearchIcon/>

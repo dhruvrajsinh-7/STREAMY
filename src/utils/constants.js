@@ -11,15 +11,15 @@ import GraphicEqIcon from '@mui/icons-material/GraphicEq';
 import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
-
+import LocalFireDepartmentIcon from '@mui/icons-material/LocalFireDepartment';
+import ExploreIcon from '@mui/icons-material/Explore';
 export const logo = 'https://imgs.search.brave.com/a6CWt9EyGg7acxX9oTIJGuLpTz82w4BNlKMsUWY2Eos/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly90dWJ1/bGFybGFicy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTcv/MDUvQnJhbmQtR3Vp/ZGUtdG8tWW91VHVi/ZS1MaXZlLVN0cmVh/bWluZy5wbmc';
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
+  { name: 'Explore', icon: <ExploreIcon/>, },
+  { name: 'Trending', icon: <LocalFireDepartmentIcon/>, },
   { name: 'Coding', icon: <CodeIcon />, },
-  { name: 'Javascript', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
-  { name: 'NodeJS', icon: <CodeIcon />, },
-  { name: 'NextJS', icon: <CodeIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
