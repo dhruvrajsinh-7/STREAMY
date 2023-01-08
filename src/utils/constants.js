@@ -15,9 +15,10 @@ import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 export const logo = 'https://imgs.search.brave.com/a6CWt9EyGg7acxX9oTIJGuLpTz82w4BNlKMsUWY2Eos/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly90dWJ1/bGFybGFicy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTcv/MDUvQnJhbmQtR3Vp/ZGUtdG8tWW91VHVi/ZS1MaXZlLVN0cmVh/bWluZy5wbmc';
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
+  { name: 'Javascript', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
+  { name: 'NodeJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
@@ -33,9 +34,9 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
-export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
+export const demoThumbnailUrl = '';
+export const demoChannelUrl = '/channel/';
+export const demoVideoUrl = '/video/1';
+export const demoChannelTitle = 'Mrbeast';
+export const demoVideoTitle = 'Hello world';
+export const demoProfilePicture = ''
